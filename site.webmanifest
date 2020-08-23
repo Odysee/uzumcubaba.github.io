@@ -1,0 +1,55 @@
+{
+    "name": "",
+    "short_name": "",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-s_j3aTs-lwY/XvTFPJJP-FI/AAAAAAAABf0/o1QpqkUNLJI6Jj1TQDZ1woN3gt4AQMIrgCK4BGAsYHg/android-chrome-36x36.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-zQDK2ToE33c/XvTFN_Y0gII/AAAAAAAABfs/bgs5c8wLhocAgb496rrQCfFlHlAEubMFQCK4BGAsYHg/android-chrome-48x48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-t1Z5eBOxvI4/XvTFIUax9jI/AAAAAAAABfA/fZPinusU92YeA9nArIFhAdDqM97uJxHFQCK4BGAsYHg/apple-touch-icon-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-e3cGbAmRY3c/XvTFMTdj2rI/AAAAAAAABfg/4-36pyYpRv45w2vwTx-3Om_0THCMsUcwgCK4BGAsYHg/android-chrome-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-rVmFRP5YMzg/XvTFQcfcfzI/AAAAAAAABgA/Gtb145OjFbEwfIe-cX1WPAuvVsM-J2UowCK4BGAsYHg/android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-A5DZaq5F__A/XvTFQBgs0GI/AAAAAAAABf8/3fuwx584tYIqzllBZ34nWp4FgkgLJkyygCK4BGAsYHg/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-FqZ4snSdOHM/XvTFPdgzVEI/AAAAAAAABf4/H6zH4rR-QWMBHJBXAi1NjI0W-MllnXyZQCK4BGAsYHg/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-1bEtQcgsSeU/XvTFOqELJII/AAAAAAAABfw/JpyZvNIAe4cTsWT1vvUJYl8ZopWjwiT5wCK4BGAsYHg/s384/android-chrome-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-7bc_JHk5rWU/XvTFNUe2WCI/AAAAAAAABfo/60j0WFvQlUEYTYySzw24nX1yFjIIJiVOgCK4BGAsYHg/s512/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "start_url": "https://uzummcubaba.blogspot.com/",
+    "display": "standalone"
+}
